@@ -1,0 +1,62 @@
+[
+    {
+        "id": 2,
+        "name": "Muhammad Rifki",
+        "email": "muhammadrifki8866@gmail.com",
+        "email_verified_at": null,
+        "password": "$2y$10$tFqbx05yNGvjonEAodgM9OIKXgUp/cGVCm5z.AGa3yeYNEjZtMnke",
+        "remember_token": "19iVOSikkNOnGIKaEVUNGbYJedxaN0auEcxjFNNs6CNVQ8AfY2asozPbbPaf",
+        "created_at": "2021-02-11 03:04:36",
+        "updated_at": "2021-02-11 05:00:14"
+    },
+    {
+        "id": 3,
+        "name": "Test 1",
+        "email": "test1@gmail.com",
+        "email_verified_at": null,
+        "password": "$2y$10$06D28mEA/5at0uF/hKEHiOJ8mMTViVGwo7dsNEMjU5bhDianiNPhK",
+        "remember_token": null,
+        "created_at": "2021-02-15 01:26:53",
+        "updated_at": "2021-02-15 01:26:53"
+    },
+    {
+        "id": 4,
+        "name": "Test 2",
+        "email": "test2@gmail.com",
+        "email_verified_at": null,
+        "password": "$2y$10$ik8BObCg0h/Bw7bn5Al1juARxx4NoecAn3n4BBTyUlKlv5KvrtA.S",
+        "remember_token": null,
+        "created_at": "2021-02-15 01:27:07",
+        "updated_at": "2021-02-15 01:27:07"
+    },
+    {
+        "id": 5,
+        "name": "Test 3",
+        "email": "test3@gmail.com",
+        "email_verified_at": null,
+        "password": "$2y$10$SodNJIa7Yh6oylWKUSCGzuwv1NDqwbikegVgQEKPnWLO5ocKdksxG",
+        "remember_token": null,
+        "created_at": "2021-02-15 01:27:19",
+        "updated_at": "2021-02-15 01:27:19"
+    },
+    {
+        "id": 6,
+        "name": "Test 4",
+        "email": "test4@gmail.com",
+        "email_verified_at": null,
+        "password": "$2y$10$0/5PhvVERu7opbyulajOxenT4auYWH8wqtS2qtPTZ2ByfzO.hE5zu",
+        "remember_token": null,
+        "created_at": "2021-02-15 01:27:32",
+        "updated_at": "2021-02-15 01:27:32"
+    },
+    {
+        "id": 7,
+        "name": "Test 5",
+        "email": "test5@gmail.com",
+        "email_verified_at": null,
+        "password": "$2y$10$z89nDdxAoJos2YZiiAgQvOkzaDJaQiADi/Ho5KnmbYze3iSTWjTFS",
+        "remember_token": null,
+        "created_at": "2021-02-15 01:28:29",
+        "updated_at": "2021-02-15 01:28:29"
+    }
+]

@@ -5,6 +5,7 @@ use Illuminate\Http\Request;
 
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Storage;
 use App\Models\User;
 use Validator;
 
@@ -97,6 +98,7 @@ class AuthController extends Controller
      */
     public function users() {
       $users = DB::table('users')->get();
+      Storage::disk('local')->put('example.json', $users);
         return response()->json($users);
     }
 
